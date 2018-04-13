@@ -12,6 +12,7 @@ AU (Admin User)
 ## Users (READ-ONLY)
 - View AI
 - Search for AI
+
 - Search for meeting
 
 ## Users (EDIT)
